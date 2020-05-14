@@ -1,0 +1,412 @@
+[
+ {
+   "País": "Estados Unidos",
+   "code": "USA",
+   "Bienestar (puntaje)": "7,5",
+   "PIB": 65060,
+   "PIB (puntaje)": "5,6",
+   "Producción": 164100,
+   "Producción (puntaje)": "10,0",
+   "index": "8,4"
+ },
+ {
+   "País": "Luxemburgo",
+   "code": "LUX",
+   "Bienestar (puntaje)": "7,5",
+   "PIB": 115200,
+   "PIB (puntaje)": "10,0",
+   "Producción": 262,
+   "Producción (puntaje)": "0,0",
+   "index": "4,3"
+ },
+ {
+   "País": "Noruega",
+   "code": "NOR",
+   "Bienestar (puntaje)": "8,2",
+   "PIB": 82770,
+   "PIB (puntaje)": "7,2",
+   "Producción": 14217,
+   "Producción (puntaje)": "0,9",
+   "index": "4,3"
+ },
+ {
+   "País": "Brasil ",
+   "code": "BRA",
+   "Bienestar (puntaje)": "4,4",
+   "PIB": 9160,
+   "PIB (puntaje)": "0,8",
+   "Producción": 123451,
+   "Producción (puntaje)": "7,5",
+   "index": "5,2"
+ },
+ {
+   "País": "Suiza",
+   "code": "CHE",
+   "Bienestar (puntaje)": "7,7",
+   "PIB": 85160,
+   "PIB (puntaje)": "7,4",
+   "Producción": 0,
+   "Producción (puntaje)": "0,0",
+   "index": "3,8"
+ },
+ {
+   "País": "Islandia",
+   "code": "ISL",
+   "Bienestar (puntaje)": "7,9",
+   "PIB": 79270,
+   "PIB (puntaje)": "6,9",
+   "Producción": 5109,
+   "Producción (puntaje)": "0,3",
+   "index": "3,9"
+ },
+ {
+   "País": "Canada",
+   "code": "CAN",
+   "Bienestar (puntaje)": "7,9",
+   "PIB": 48600,
+   "PIB (puntaje)": "4,2",
+   "Producción": 50278,
+   "Producción (puntaje)": "3,1",
+   "index": "4,7"
+ },
+ {
+   "País": "Irlanda",
+   "code": "IRL",
+   "Bienestar (puntaje)": "7,1",
+   "PIB": 77160,
+   "PIB (puntaje)": "6,7",
+   "Producción": 1293,
+   "Producción (puntaje)": "0,1",
+   "index": "3,5"
+ },
+ {
+   "País": "Alemania",
+   "code": "DEU",
+   "Bienestar (puntaje)": "7,1",
+   "PIB": 49690,
+   "PIB (puntaje)": "4,3",
+   "Producción": 42183,
+   "Producción (puntaje)": "2,6",
+   "index": "4,3"
+ },
+ {
+   "País": "Suecia",
+   "code": "SWE",
+   "Bienestar (puntaje)": "7,7",
+   "PIB": 54140,
+   "PIB (puntaje)": "4,7",
+   "Producción": 18426,
+   "Producción (puntaje)": "1,1",
+   "index": "3,8"
+ },
+ {
+   "País": "Dinamarca",
+   "code": "DNK",
+   "Bienestar (puntaje)": "7,8",
+   "PIB": 62040,
+   "PIB (puntaje)": "5,4",
+   "Producción": 5927,
+   "Producción (puntaje)": "0,4",
+   "index": "3,6"
+ },
+ {
+   "País": "Australia",
+   "code": "AUS",
+   "Bienestar (puntaje)": "8,0",
+   "PIB": 57200,
+   "PIB (puntaje)": "5,0",
+   "Producción": 8907,
+   "Producción (puntaje)": "0,5",
+   "index": "3,7"
+ },
+ {
+   "País": "Finlandia",
+   "code": "FIN",
+   "Bienestar (puntaje)": "7,7",
+   "PIB": 50880,
+   "PIB (puntaje)": "4,4",
+   "Producción": 11191,
+   "Producción (puntaje)": "0,7",
+   "index": "3,5"
+ },
+ {
+   "País": "Austria",
+   "code": "AUT",
+   "Bienestar (puntaje)": "6,9",
+   "PIB": 52470,
+   "PIB (puntaje)": "4,6",
+   "Producción": 10036,
+   "Producción (puntaje)": "0,6",
+   "index": "3,3"
+ },
+ {
+   "País": "Francia",
+   "code": "FRA",
+   "Bienestar (puntaje)": "6,6",
+   "PIB": 43500,
+   "PIB (puntaje)": "3,8",
+   "Producción": 23926,
+   "Producción (puntaje)": "1,5",
+   "index": "3,5"
+ },
+ {
+   "País": "Paises Bajos",
+   "code": "NLD",
+   "Bienestar (puntaje)": "7,7",
+   "PIB": 54130,
+   "PIB (puntaje)": "4,7",
+   "Producción": 4060,
+   "Producción (puntaje)": "0,2",
+   "index": "3,4"
+ },
+ {
+   "País": "Japon",
+   "code": "JPN",
+   "Bienestar (puntaje)": "5,7",
+   "PIB": 41420,
+   "PIB (puntaje)": "3,6",
+   "Producción": 23482,
+   "Producción (puntaje)": "1,4",
+   "index": "3,1"
+ },
+ {
+   "País": "Reino Unido",
+   "code": "GB",
+   "Bienestar (puntaje)": "7,1",
+   "PIB": 42040,
+   "PIB (puntaje)": "3,6",
+   "Producción": 16992,
+   "Producción (puntaje)": "1,0",
+   "index": "3,4"
+ },
+ {
+   "País": "Belgica",
+   "code": "BEL",
+   "Bienestar (puntaje)": "7,2",
+   "PIB": 47530,
+   "PIB (puntaje)": "4,1",
+   "Producción": 4129,
+   "Producción (puntaje)": "0,3",
+   "index": "3,1"
+ },
+ {
+   "País": "Italia",
+   "code": "ITA",
+   "Bienestar (puntaje)": "5,9",
+   "PIB": 34780,
+   "PIB (puntaje)": "3,0",
+   "Producción": 26147,
+   "Producción (puntaje)": "1,6",
+   "index": "3,2"
+ },
+ {
+   "País": "Nueva Zelanda",
+   "code": "NZL",
+   "Bienestar (puntaje)": "7,5",
+   "PIB": 42010,
+   "PIB (puntaje)": "3,6",
+   "Producción": 8360,
+   "Producción (puntaje)": "0,5",
+   "index": "3,2"
+ },
+ {
+   "País": "España",
+   "code": "ESP",
+   "Bienestar (puntaje)": "6,4",
+   "PIB": 31910,
+   "PIB (puntaje)": "2,8",
+   "Producción": 16272,
+   "Producción (puntaje)": "1,0",
+   "index": "3,0"
+ },
+ {
+   "País": "Israel",
+   "code": "ISR",
+   "Bienestar (puntaje)": "5,9",
+   "PIB": 41560,
+   "PIB (puntaje)": "3,6",
+   "Producción": 558,
+   "Producción (puntaje)": "0,0",
+   "index": "2,5"
+ },
+ {
+   "País": "Corea",
+   "code": "PRK",
+   "Bienestar (puntaje)": "5,1",
+   "PIB": 32770,
+   "PIB (puntaje)": "2,8",
+   "Producción": 5912,
+   "Producción (puntaje)": "0,4",
+   "index": "2,3"
+ },
+ {
+   "País": "Corea",
+   "code": "KOR",
+   "Bienestar (puntaje)": "5,1",
+   "PIB": 32770,
+   "PIB (puntaje)": "2,8",
+   "Producción": 5912,
+   "Producción (puntaje)": "0,4",
+   "index": "2,3"
+ },
+ {
+   "País": "Eslovenia",
+   "code": "SVN",
+   "Bienestar (puntaje)": "6,3",
+   "PIB": 27510,
+   "PIB (puntaje)": "2,4",
+   "Producción": 1080,
+   "Producción (puntaje)": "0,1",
+   "index": "2,4"
+ },
+ {
+   "País": "Republica Checa",
+   "code": "CZE",
+   "Bienestar (puntaje)": "6,0",
+   "PIB": 24940,
+   "PIB (puntaje)": "2,2",
+   "Producción": 4466,
+   "Producción (puntaje)": "0,3",
+   "index": "2,4"
+ },
+ {
+   "País": "Portugal",
+   "code": "PRT",
+   "Bienestar (puntaje)": "5,2",
+   "PIB": 23730,
+   "PIB (puntaje)": "2,1",
+   "Producción": 4777,
+   "Producción (puntaje)": "0,3",
+   "index": "2,1"
+ },
+ {
+   "País": "Estonia",
+   "code": "EST",
+   "Bienestar (puntaje)": "6,2",
+   "PIB": 23650,
+   "PIB (puntaje)": "2,1",
+   "Producción": 914,
+   "Producción (puntaje)": "0,1",
+   "index": "2,3"
+ },
+ {
+   "País": "Rusia",
+   "code": "RUS",
+   "Bienestar (puntaje)": "4,5",
+   "PIB": 11460,
+   "PIB (puntaje)": "1,0",
+   "Producción": 19321,
+   "Producción (puntaje)": "1,2",
+   "index": "2,1"
+ },
+ {
+   "País": "Chile",
+   "code": "CHL",
+   "Bienestar (puntaje)": "4,4",
+   "PIB": 16280,
+   "PIB (puntaje)": "1,4",
+   "Producción": 10097,
+   "Producción (puntaje)": "0,6",
+   "index": "1,9"
+ },
+ {
+   "País": "Republica Eslovaca",
+   "code": "SVK",
+   "Bienestar (puntaje)": "5,6",
+   "PIB": 20600,
+   "PIB (puntaje)": "1,8",
+   "Producción": 0,
+   "Producción (puntaje)": "0,0",
+   "index": "2,0"
+ },
+ {
+   "País": "Lituania",
+   "code": "LTU",
+   "Bienestar (puntaje)": "5,3",
+   "PIB": 19880,
+   "PIB (puntaje)": "1,7",
+   "Producción": 1462,
+   "Producción (puntaje)": "0,1",
+   "index": "2,0"
+ },
+ {
+   "País": "Grecia",
+   "code": "GRC",
+   "Bienestar (puntaje)": "4,3",
+   "PIB": 20930,
+   "PIB (puntaje)": "1,8",
+   "Producción": 0,
+   "Producción (puntaje)": "0,0",
+   "index": "1,7"
+ },
+ {
+   "País": "Leotonia",
+   "code": "LVA",
+   "Bienestar (puntaje)": "4,9",
+   "PIB": 18460,
+   "PIB (puntaje)": "1,6",
+   "Producción": 0,
+   "Producción (puntaje)": "0,0",
+   "index": "1,8"
+ },
+ {
+   "País": "Mexico",
+   "code": "MEX",
+   "Bienestar (puntaje)": "3,5",
+   "PIB": 9870,
+   "PIB (puntaje)": "0,9",
+   "Producción": 15605,
+   "Producción (puntaje)": "1,0",
+   "index": "1,7"
+ },
+ {
+   "País": "Hungria",
+   "code": "HUN",
+   "Bienestar (puntaje)": "5,0",
+   "PIB": 16190,
+   "PIB (puntaje)": "1,4",
+   "Producción": 0,
+   "Producción (puntaje)": "0,0",
+   "index": "1,8"
+ },
+ {
+   "País": "Polonia",
+   "code": "POL",
+   "Bienestar (puntaje)": "5,4",
+   "PIB": 15310,
+   "PIB (puntaje)": "1,3",
+   "Producción": 0,
+   "Producción (puntaje)": "0,0",
+   "index": "1,9"
+ },
+ {
+   "País": "Colombia",
+   "code": "COL",
+   "Bienestar (puntaje)": "3,7",
+   "PIB": 7050,
+   "PIB (puntaje)": "0,6",
+   "Producción": 9652,
+   "Producción (puntaje)": "0,6",
+   "index": "1,5"
+ },
+ {
+   "País": "Sudafrica ",
+   "code": "ZAF",
+   "Bienestar (puntaje)": "2,6",
+   "PIB": 6610,
+   "PIB (puntaje)": "0,6",
+   "Producción": 13007,
+   "Producción (puntaje)": "0,8",
+   "index": "1,3"
+ },
+ {
+   "País": "Turquia",
+   "code": "TUR",
+   "Bienestar (puntaje)": "4,2",
+   "PIB": 7620,
+   "PIB (puntaje)": "0,7",
+   "Producción": 0,
+   "Producción (puntaje)": "0,0",
+   "index": "1,4"
+ }
+]
